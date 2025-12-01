@@ -6,7 +6,7 @@
 
 A Terminal emulator with a different layout, where inputs and outputs are visually separated.
 
-## [Yandex Course](https://practicum.yandex.kz/middle-rust/?from=catalog) Projects
+## [Yandex Practicum Course](https://practicum.yandex.kz/middle-rust/?from=catalog) Projects
 Note: Please use your browser’s translation feature to translate the page from Russian into English so you can actually see what I was studying.
 
 *2*: [chapter-exercises](https://github.com/vnikonov63/yandex-practicum-rust-developer)
@@ -15,9 +15,15 @@ Note: Please use your browser’s translation feature to translate the page from
 
 *3*: [the-book](https://github.com/vnikonov63/the-book)
 
-Following material from the well known [book](https://doc.rust-lang.org/book/)
+Following material from the well known The Rust Programming Language [Book](https://doc.rust-lang.org/book/)
 
 *4*: [ratatui-tutorial-json-editor](https://github.com/vnikonov63/ratatui-tutorial-json-editor) 
 
 Practicing [rataui](https://github.com/ratatui/ratatui) by following one of their [examples](https://ratatui.rs/tutorials/json-editor/)
+
+## Events
+
+*5*: [aoc-2025](https://github.com/vnikonov63/aoc-2025)
+
+My solutions to the [Advent of Code 2025](https://adventofcode.com/2025/about) Puzzles
 
